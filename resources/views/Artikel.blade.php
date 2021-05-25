@@ -35,7 +35,7 @@
             </div>
           </nav>
         <div class="container-fluid">
-            (Nama saya Muhammad Ilham Hidayatullah, no telepon saya 087846101513, email milhamh99@gmail.com, sosial media saya m_iiilhamm
+            ( saya Muhammad Ilham Hidayatullah, no telepon saya 087846101513, email milhamh99@gmail.com, sosial media saya m_iiilhamm
         </div>
     </body>
 </html>
